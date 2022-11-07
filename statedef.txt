@@ -1,0 +1,13 @@
+State: (x,y,z),... với x là stack, y là size, z là tình trạng completed của từng bình
+Initial State: tùy vào đề bài
+Goal state: (x,4,1),(u,4,1),(t,0,0),... Đạt được trạng thái đích khi các bình size khác 0 có completed = 1
+Legal moves:
+Điều kiện chuyển trạng thái:
++ size A > 0
++ size B < 4
++ size A giảm đi + size B <= 4
++ size A giảm đi bằng số phần tử giống nhau trên top của stack
++ màu được chuyển từ A phải cùng màu với màu trên cùng của B nếu size B khác 0
+Nếu bình nào đã complete thì không thực hiện thao tác trên bình đó nữa
+Completed => size = 4 và giống nhau về phần tử
+Thao tác chuyển trạng thái: lấy các phần tử giống nhau trên cùng của stack chuyển sang bình khác

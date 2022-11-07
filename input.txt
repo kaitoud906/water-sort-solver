@@ -1,0 +1,182 @@
+Level 1
+***O
+*OOO
+
+Level 2
+OBOB
+BOBO
+****
+
+Level 3
+BROO
+BROB
+ROBR
+****
+****
+
+Level 4
+ORBO
+OORB
+RBRB
+****
+****
+
+Level 5
+PBCO
+RORP
+BRCC
+PBOC
+BRPO
+****
+****
+
+Level 6
+CCPB
+CROB
+BPBO
+PROR
+PRCO
+****
+****
+
+Level 7
+BORR
+OPBP
+PRBP
+CRCO
+OCCB
+****
+****
+
+Level 8
+PCPO
+BRRO
+RCBB
+ORCP
+BPOC
+****
+****
+
+Level 9
+RBOC
+CRPO
+CRBO
+CBBP
+ORPP
+****
+****
+
+Level 10
+POBB
+PYPO
+GYCR
+CGRG
+CYBB
+YROG
+PORC
+****
+****
+
+Level 11
+YGPY
+YBRC
+ROGP
+YCCO
+RCPB
+OBRG
+GBOP
+****
+****
+
+Level 12
+CCCR
+CPRO
+OROP
+POPB
+RBBB
+****
+****
+
+Level 13
+PCOR
+CGOG
+OPGB
+RYCP
+BBBG
+RPYR
+YCYO
+****
+****
+
+Level 14
+YBGY
+CRBP
+BCPB
+OGRY
+CYOC
+ROPR
+GGPO
+****
+****
+
+Level 15
+OROC
+ORBB
+OBPP
+BRPC
+PCRC
+****
+****
+
+Level 16
+CBYY
+PORG
+BOCR
+PRBG
+PPOG
+YBYC
+ORGC
+****
+****
+
+Level 17
+PGBB
+PGRY
+BCRR
+OYYC
+OGOC
+RGPO
+CPYB
+****
+****
+
+Level 18
+PBRP
+OCCR
+POOR
+BCRP
+BBOC
+****
+****
+
+Level 19
+RPPR
+RBRY
+OOCO
+GCBG
+OGYC
+YPGY
+CBBP
+****
+****
+
+Level 20
+BCBP
+RPGO
+CYYB
+COOP
+RCGG
+YYRB
+GOPR
+****
+****
